@@ -1,5 +1,1 @@
-# Hello, world!
-
-I student in Netology
-
-20.04.2024
+https://github.com/Solomatin2006/Screenshot/blob/main/Screen_1.png
